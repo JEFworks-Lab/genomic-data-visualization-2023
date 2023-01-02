@@ -31,20 +31,22 @@ By the end of this lesson, we should understand sources of quality variability i
 
 # Hands-on component 3
 
-Our in-class hands-on component will involve analyzing either the MERFISH or Visium dataset to create a data visualization to evaluate the data quality. We will also do an in-class demonstration of the homework submission process. 
+Our in-class hands-on component will involve analyzing our spatial transcriptomics datasets to create a data visualization to evaluate the data quality. We will also do an in-class demonstration of the homework submission process. 
 
 ---
 
 # Class Lesson Notes 3
 
-Prof. Fan’s whiteboard notes from class: [genomic-data-visualization-classnotes-20220131.pdf (click to download)]({{ site.baseurl }}/resources/notes/genomic-data-visualization-classnotes-20220131.pdf)
+Prof. Fan’s whiteboard notes from class: 
 
-Prof. Fan’s code from class: [inclass-plotting-20220131.R (click to download)]({{ site.baseurl }}/resources/code/inclass-plotting-20220131.R) 
+Prof. Fan’s code from class: 
 
 ---
 
 # Homework 3
 
+Learn from your classmates: pick someone else's data visualization for a spatial transcriptomics dataset that is different from your own. Apply their code to your spatial transcriptomics dataset. Write a description of how this data visualization makes salient similar or different features from the data visualization you made. 
 
-None. Assignment and submission of Homework 3 will be pushed back one class to accomodate new students. For those less familiar with R and ggplot, please tinker and practice on your own so you will be ready to create data visualizations of either the MERFISH or Visium dataset using ggplot in R for your next homework. 
+[genomic-data-visualization-HW_2.pptx (click to download)]({{ site.baseurl }}/resources/hw/genomic-data-visualization-HW_2.pptx)
 
+Make a pull request to submit your homework (due Thursday Midnight).

@@ -1,24 +1,24 @@
 ---
 layout: page
-title:  "Lesson 9: Putting It All Together and Interactivity"
-order: 9
+title:  "Lesson 8: Putting It All Together and Interactivity"
+order: 8
 ---
 
-# Lecture 9
+# Lecture 8
 
-## 9.0 Lesson learning objectives
+## 8.0 Lesson learning objectives
 
 By the end of this lesson, we should be able to use interactive data visualizations to get some sense for the quality of our analysis.
 
 ---
 
-# Hands-on component 9
+# Hands-on component 8
 
 Our in-class hands-on component will analyzing either the MERFISH or Visium dataset to create a data visualization using `gganimate`.
 
 ---
 
-# Class Lesson Notes 9
+# Class Lesson Notes 8
 
 Prof. Fan’s slides shown in class: [genomic-data-visualization-classnotes-20220214.pptx (click to download)]({{ site.baseurl }}/resources/notes/genomic-data-visualization-classnotes-20220214.pptx)
 
@@ -26,7 +26,7 @@ Prof. Fan’s code from class: [inclass-plotting-20220214.R (click to download)]
 
 ---
 
-# Homework Assignment 9
+# Homework Assignment 8
 
 In either the MERFISH or Visium dataset, identify and visualize the spatial distribution of Mature Oligodendrocytes. Create a multi-panel data visualization with a corresponding ‘figure caption’ that describes your data visualization to convince me that you have correctly identified Mature Oligodendrocytes.
 

@@ -1,24 +1,24 @@
 ---
 layout: page
-title:  "Lesson 8: Misleading Visualizations"
-order: 8
+title:  "Lesson 10: Misleading Visualizations"
+order: 10
 ---
 
-# Lecture 8
+# Lecture 10
 
-## 8.0 Lesson learning objectives
+## 10.0 Lesson learning objectives
 
 By the end of this lesson, we should better understand how analyses and data design principals may be used to mislead (often unintentionally) and how we can use data visualization to correct our misunderstanding. 
 
 ---
 
-# Hands-on component 8
+# Hands-on component 10
 
 We will perform an analysis using the data analysis approaches we have learned so far and use data visualizations with the intention of misleading. Then we will use data visualization to correct our misunderstanding.
 
 ---
 
-# Class Lesson Notes 8
+# Class Lesson Notes 10
 
 Prof. Fan’s whiteboard notes from class: [genomic-data-visualization-classnotes-20220211.pdf (click to download)]({{ site.baseurl }}/resources/notes/genomic-data-visualization-classnotes-20220211.pdf)
 
@@ -29,7 +29,7 @@ In case you're curious how the mystery dataset was made: [generate_mystery.R (cl
 
 ---
 
-# Homework Assignment 8
+# Homework Assignment 10
 
 None. Complete Homework Assignment 7 if you have not done so yet.
 

@@ -1,24 +1,24 @@
 ---
 layout: page
-title:  "Lesson 10: RNA Velocity"
-order: 10
+title:  "Lesson 9: RNA Velocity"
+order: 9
 ---
 
-# Lecture 10
+# Lecture 9
 
-## 10.0 Lesson learning objectives
+## 9.0 Lesson learning objectives
 
 By the end of this lesson, we should understand what is RNA velocity analysis.
 
 ---
 
-# Hands-on component 10
+# Hands-on component 9
 
 Our in-class hands-on component will continue analyzing either the MERFISH or Visium dataset.
 
 ---
 
-# Class Lesson Notes 10
+# Class Lesson Notes 9
 
 Prof. Fan’s slides shown in class: [genomic-data-visualization-classnotes-20220216.pptx (click to download)]({{ site.baseurl }}/resources/notes/genomic-data-visualization-classnotes-20220216.pptx)
 
@@ -26,7 +26,7 @@ Prof. Fan’s whiteboard notes from class: [genomic-data-visualization-classnote
 
 ---
 
-# Homework Assignment 10
+# Homework Assignment 9
 
 None. Complete Homework Assignment 9 if you have not done so yet.
 

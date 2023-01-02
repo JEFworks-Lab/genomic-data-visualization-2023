@@ -33,22 +33,23 @@ Visium is a commercial platform that uses glass slides with arrayed oligonucleot
 
 # Hands-on component 2
 
-Our in-class hands-on component will downloading and analyzing either a MERFISH or Visium dataset of a coronal section of the mouse brain.
+Our in-class hands-on component will involve forming teams, downloading, and beginning to analyze spatial transcriptomics data. 
 
 ---
 
 # Class Lesson Notes 2
 
-Prof. Fan’s whiteboard notes from class: [genomic-data-visualization-classnotes-20220128.pdf (click to download)]({{ site.baseurl }}/resources/notes/genomic-data-visualization-classnotes-20220128.pdf)
+Prof. Fan’s whiteboard notes from class: 
 
-Prof. Fan’s code from class: [inclass-plotting-20220128.R (click to download)]({{ site.baseurl }}/resources/code/inclass-plotting-20220128.R)
+Prof. Fan’s code from class: 
 
 ---
 
 # Homework Assignment 2
 
-Read the original Chen et al and Stahl et al papers. Quiz next week may incorporate questions from these readings.
+Make a new data visualization of your spatial transcriptomics dataset using ggplot (do not make the same visualizations that were made in class). Write a description of what you did using vocabulary terms from Lesson 1. See slides for more details on what is expected and how to submit your homework.
 
-Complete Homework Assignment 0 if you registered late. 
+[genomic-data-visualization-HW_1.pptx (click to download)]({{ site.baseurl }}/resources/hw/genomic-data-visualization-HW_1.pptx)
 
+Make a pull request to submit your homework (due Monday Midnight).
 
