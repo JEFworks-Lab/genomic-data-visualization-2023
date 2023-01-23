@@ -68,7 +68,7 @@ Our in-class hands-on component will focus on introducing students to the R prog
 
 # Class Lesson Notes 1
 
-Prof. Fan’s whiteboard notes from class: 
+Prof. Fan’s notes from class: [genomic-data-visualization-Lesson_1.pptx (click to download)]({{ site.baseurl }}/resources/notes/genomic-data-visualization-Lesson_1.pptx)
 
 Prof. Fan’s code from class: 
 
@@ -85,4 +85,3 @@ None. Complete Homework Assignment 0 if you have not done so yet.
 - [ggplot2 cheat sheet](https://www.rstudio.com/resources/cheatsheets/)
 - [Design of data figures by Bang Wong]({{ site.baseurl }}/resources/readings/wong-nmeth-pointsofview.pdf)  
 - [The Art and Science of Data Visualization](https://towardsdatascience.com/the-art-and-science-of-data-visualization-6f9d706d673e)
-
