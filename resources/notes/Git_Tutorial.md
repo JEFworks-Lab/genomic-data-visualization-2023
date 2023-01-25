@@ -34,7 +34,7 @@ When making changes in a repo, a version of the changes can be saved and tracked
 Pushing and pulling commits allows for content in repositories to match. Pushing is how you transfer commits from your local repo to a remote repo. Conversely, pulling is how you transfer commits from a remote repo to your repo. When working collaboratively on a shared repo, you are often pushing away commits that you make in your local repo and pulling in commits that collaborators have made in the remote repo.
 
 8. Enter the command `git push` to push your changes from your local repo to your remote forked repo on GitHub. You can utilize `git status` again to check if you push was successful. Also, when you view your forked repo on GitHub after pushing a commit, you should be at least 1 commit **ahead** on the main parent repo and there will be a message stating that at the top of your repo.
-9. If your forked repo is any number of commits **behind** the parent repo, you should sync changes by clicking on the Sync fork button on the top right.
+9. If your forked repo is any number of commits **behind** the parent repo, you should sync changes by clicking on the "Sync fork" button on the top right and then selecting "Update branch".
 10. Return to the terminal and enter `git pull` to update your local repo to match your remote repo once you have synced your remote repo with the parent repo.
 
 #### Pull Requests
