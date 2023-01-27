@@ -39,9 +39,9 @@ Our in-class hands-on component will involve forming teams, downloading, and beg
 
 # Class Lesson Notes 2
 
-Prof. Fan’s whiteboard notes from class: 
+Prof. Fan’s whiteboard notes from class: (for some reason it didn't save; please refer to recording instead)
 
-Prof. Fan’s code from class: 
+Prof. Fan’s code from class: [code-01-27-2023.R (click to download)]({{ site.baseurl }}/resources/code/code-01-27-2023.R)
 
 ---
 
