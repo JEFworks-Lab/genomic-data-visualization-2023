@@ -167,7 +167,8 @@ We will also install R and [RStudio](https://www.rstudio.com/) for the next clas
 
 # Class Lesson Notes 0
 
-Prof. Fan's whiteboard notes from class: 
+Prof. Fan's notes from class: [genomic-data-visualization-Lesson_0.pdf (click to download)]({{ site.baseurl }}/resources/notes/genomic-data-visualization-Lesson_0.pdf)
+
 
 ---
 

@@ -17,7 +17,7 @@ By the end of this lesson, we should understand what is spatially resolved trans
 
 ### smFISH
 
-### microdissection
+### microdissection (to be covered at later date)
 
 ## 2.3 High-throughput approaches for spatially resolved transcriptomic profiling
 
@@ -25,7 +25,7 @@ By the end of this lesson, we should understand what is spatially resolved trans
 
 MERFISH is an imaging method capable of simultaneously measuring the copy number and spatial distribution of hundreds to thousands of RNA species in fixed cells. This technique was introduced in the paper [*Chen et al. Spatially resolved, highly multiplexed RNA profiling in single cells. Science (2015)*]({{ site.baseurl }}/resources/readings/chen-et-al_science-aaa6090.pdf)
 
-### Spatially resolved transcriptomic sequencing with Visium
+### Spatially resolved transcriptomic sequencing with Visium (to be covered at later date)
 
 Visium is a commercial platform that uses glass slides with arrayed oligonucleotides containing positional barcodes to generate cDNA libraries with positional information for RNA sequencing. The technique was introduced in the paper [*Stahl et al. Visualization and analysis of gene expression in tissue sections by spatial transcriptomics. Science (2016)*]({{ site.baseurl }}/resources/readings/stahl-et-al_science-aaf2403.pdf) and later licensed to 10X Genomics for commercialization.
 
@@ -39,9 +39,9 @@ Our in-class hands-on component will involve forming teams, downloading, and beg
 
 # Class Lesson Notes 2
 
-Prof. Fan’s whiteboard notes from class: 
+Prof. Fan’s whiteboard notes from class: (for some reason it didn't save; please refer to recording instead)
 
-Prof. Fan’s code from class: 
+Prof. Fan’s code from class: [code-01-27-2023.R (click to download)]({{ site.baseurl }}/resources/code/code-01-27-2023.R)
 
 ---
 
