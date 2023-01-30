@@ -28,12 +28,9 @@ Prof. Fan’s code from class: [inclass-plotting-20220202.R (click to download)]
 
 # Homework Assignment 4
 
-Make a new data visualization of either the MERFISH or Visium dataset using ggplot in R (do not make the same visualizations that were made in class). Write a description of what you did using vocabulary terms from Lesson 1. See slides for more details on what is expected and how to submit your homework. 
+Learn from your classmates: You will be assigned to critique a data visualization made by a teammate. Please remember to be constructive in your critique. 
 
-[genomic-data-visualization-HW_1.pptx (click to download)]({{ site.baseurl }}/resources/hw/genomic-data-visualization-HW_1.pptx)
+genomic-data-visualization-HW_2.pptx (click to download)
 
-Make a pull request to submit your homework (due Saturday Midnight).
-
-Please also install the [`Rtsne` package](https://cran.r-project.org/web/packages/Rtsne/index.html) by running in `R` the command `install.packages('Rtsne')` for the hands-on component of the next class.
-
+Make a pull request to submit your homework (due Friday Midnight).
 
