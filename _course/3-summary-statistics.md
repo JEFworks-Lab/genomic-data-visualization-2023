@@ -22,7 +22,7 @@ None. Quiz.
 
 # Class Lesson Notes 3
 
-Prof. Fan’s notes from class: [genomic-data-visualization-Lesson_2.pptx (click to download)]({{ site.baseurl }}/resources/notes/genomic-data-visualization-Lesson_2.pptx)
+Prof. Fan’s notes from class: [genomic-data-visualization-Lesson_3.pptx (click to download)]({{ site.baseurl }}/resources/notes/genomic-data-visualization-Lesson_3.pptx)
 
 ---
 
