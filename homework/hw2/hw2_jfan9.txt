@@ -1,0 +1,11 @@
+1. Which data visualization are you critiquing?
+
+https://jef.works/genomic-data-visualization-2023/blog/2023/01/21/jfan9/
+
+2. Do you think the author was effective in making salient the point they said they wanted to make? Why or why not?
+
+The author sought to make more salient the relationship between ERBB2 expression and the cell area. The author chose to encode the quantitative variable of area using the visual channel of size, which is very difficult to perceive.
+
+3. How could you improve the data visualization in making salient the point they said they wanted to make?
+
+I would use position along the x axis as the visual channel for encoding the quantitative variable of area. Currently, this visual channel is being used to encode the x_centroid position, which is not related to the point that the author wanted to make salient. 
