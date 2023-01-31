@@ -70,7 +70,7 @@ Our in-class hands-on component will focus on introducing students to the R prog
 
 Prof. Fan’s notes from class: [genomic-data-visualization-Lesson_1.pptx (click to download)]({{ site.baseurl }}/resources/notes/genomic-data-visualization-Lesson_1.pptx)
 
-Prof. Fan’s code from class: 
+Prof. Fan’s code from class: [code-01-25-2023.R (click to download)]({{ site.baseurl }}/resources/code/code-01-25-2023.R)
 
 ---
 
