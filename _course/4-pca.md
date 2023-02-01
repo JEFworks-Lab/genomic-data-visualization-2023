@@ -14,15 +14,15 @@ By the end of this lesson, we should understand what is principal components ana
 
 # Hands-on component 4
 
-Our in-class hands-on component will involve analyzing either the MERFISH or Visium dataset using principal components analysis to create a data visualization. 
+Our in-class hands-on component will involve analyzing our spatial transcriptomics dataset using principal components analysis to create a data visualization. 
 
 ---
 
 # Class Lesson Notes 4
 
-Prof. Fan’s whiteboard notes from class: 
+Prof. Fan’s whiteboard notes from class: (for some reason it didn't save; please refer to recording instead)
 
-Prof. Fan’s code from class: 
+Prof. Fan’s code from class: [code-02-01-2023.R (click to download)]({{ site.baseurl }}/resources/code/code-02-01-2023.R)
 
 ---
 
