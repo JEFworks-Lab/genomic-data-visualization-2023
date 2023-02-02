@@ -1,0 +1,16 @@
+1. Which data visualization are you critiquing?
+
+https://jef.works/genomic-data-visualization-2023/blog/2023/01/27/cchan58/ 
+
+2. Do you think the author was effective in making salient the point they said they wanted to make? Why or why not?
+
+The author intended to make more salient the relationship between EPCAM expression within the cell and the area of the cell, and how this relationship is independent of the x position of the centroid.
+The author encoded the spatial data of x centroid and cell area with the visual channel of position along the axes, with visual channel of saturation to demonstrate the gene expression of EPCAM within each cell.
+It was clear to see that EPCAM expression is independent of x centroid, but it's not obvious to observe the relationship between EPCAM expression and cell area. 
+The dotted line to separate high expression and low expression region seemed to be chosen by observation, and I think there would be better ways to enhance the saliency.
+
+3. How could you improve the data visualization in making salient the point they said they wanted to make?
+
+I would use position along the x axis as the visual channel for to encode cell area, and use position along the y axis to encode EPCAM expression. 
+In the meantime, I will use the visual channel of saturation to encode x centroid. 
+I will also add a linear regression line between EPCAM expression and cell area with 95% confidence interval to show the saliency of correlation.
