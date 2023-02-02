@@ -34,10 +34,10 @@ Make a new data visualization of your spatial transcriptomics dataset with a min
 3. If I perform non-linear dimensionality reduction on PCs, how many PCs should I use?
 4. What genes (or other cell features such as area or total genes detected) are driving my reduced dimensional components?
 
-Write a description of what you did using vocabulary terms from Lesson 1.
+Write a description describing your data visualization using vocabulary terms from Lesson 1.
 
-Use the same process from HW1 for what is expected and how to submit your homework to the folder `hw3/`.
-[genomic-data-visualization-HW_1.pptx (click to download)]({{ site.baseurl }}/resources/hw/genomic-data-visualization-HW_1.pptx)
+Use the same process from HW1 for what is expected and how to submit your homework to the folder `hw3/`. Additional details:
+[genomic-data-visualization-HW_3.pptx (click to download)]({{ site.baseurl }}/resources/hw/genomic-data-visualization-HW_3.pptx)
 
 Make a pull request to submit your HW3 (due Monday Midnight).
 
