@@ -1,0 +1,14 @@
+1. Which data visualization are you critiquing?
+
+https://jef.works/genomic-data-visualization-2023/blog/2023/01/29/awang87/
+
+2. Do you think the author was effective in making salient the point they said they wanted to make? Why or why not?
+
+The author used explanatory data visualization to make the spatial differences in expression of gene AGR3 in various cells salient.
+Using geometric primitive of points and lines, and visual channel of size and position along z-axis, he was able to clearly show the concentration
+sites of the gene. His usage of saturation as a visual channel allows the detection of clear highest expression points along the 3D axis. 
+Overall, I believe the representation to be clear and well-designed.
+
+3. How could you improve the data visualization in making salient the point they said they wanted to make?
+
+I would implement ranges to limit the number of points being plotted, but keeping the visual channels chosen by the author. 
