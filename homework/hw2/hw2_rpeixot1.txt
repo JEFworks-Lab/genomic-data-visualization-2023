@@ -1,0 +1,11 @@
+1. Which data visualization are you critiquing?
+
+https://jef.works/genomic-data-visualization-2023/blog/2023/01/27/rdemelo1/
+
+2. Do you think the author was effective in making salient the point they said they wanted to make? Why or why not?
+
+It was clear to see the relationship between growth factor receptor expression and cell area because the author used the geometric primitive of a point to represent the cells and the visual channel of position. Therefore, you can get an overall idea of how the expression changes as the area increases. However, the use of the visual channels of size and saturation were harder to interpret and did not convey much information about the goal of the visualization.
+
+3. How could you improve the data visualization in making salient the point they said they wanted to make?
+
+I would change the usage of the visual channels of saturation and size to represent the x and y centroids, respectively. Since those correspond to spatial locations, it would be better to represent them using the visual channel of position. However, as this feature is already being used, I would just remove the centroid information as it is not directly related to the goal of the graph. In addition, by using the visual channel of size, some of the points overlapped and you could not clearly see the complete data.
