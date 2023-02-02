@@ -28,4 +28,4 @@ Prof. Fan’s notes from class: [genomic-data-visualization-Lesson_3.pptx (click
 
 # Homework 3
 
-Homework 1 due today at Midnight.
+HW1 due today at Midnight.

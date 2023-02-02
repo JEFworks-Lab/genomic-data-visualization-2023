@@ -14,27 +14,24 @@ By the end of this lesson, we should become more comfortable with interpreting o
 
 # Hands-on component 7
 
-Our in-class hands-on component will analyzing either the MERFISH or Visium dataset to identify differentially expressed genes and make data visualizations. We will also learn to use `gridExtra` to make multi-panel plots. 
+Our in-class hands-on component will analyze our spatial transcriptomics dataset to identify differentially expressed genes and make data visualizations. 
 
 ---
 
 # Class Lesson Notes 7
 
-Prof. Fan’s whiteboard notes from class: [genomic-data-visualization-classnotes-20220209.pdf (click to download)]({{ site.baseurl }}/resources/notes/genomic-data-visualization-classnotes-20220209.pdf)
+Prof. Fan’s whiteboard notes from class: 
 
-Prof. Fan’s code from class: [inclass-plotting-20220209.R (click to download)]({{ site.baseurl }}/resources/code/inclass-plotting-20220209.R) 
+Prof. Fan’s code from class: 
 
 ---
 
 # Homework Assignment 7
 
-Make a new multi-panel (at least 2 panels) data visualization of either the MERFISH or Visium dataset using ggplot in R and the concepts we have been learning in class (principal components analysis, tSNE, kmeans clustering, and/or differential gene expression analysis). Write a description of what you did using vocabulary terms from Lesson 1. Refer to slides from Lesson 4 for more details on what is expected and how to submit your homework. 
+Learn from your classmates: You will be assigned to critique a data visualization made by a teammate. Please remember to be constructive in your critique. 
 
-[genomic-data-visualization-HW_3.pptx (click to download)]({{ site.baseurl }}/resources/hw/genomic-data-visualization-HW_3.pptx)
+Use the same process from HW2 for what is expected and how to submit your homework to the folder `hw4/`.
+[genomic-data-visualization-HW_2.pptx (click to download)]({{ site.baseurl }}/resources/hw/genomic-data-visualization-HW_2.pptx)
 
-Make a pull request to submit your homework (due Saturday Midnight).
-
-
-
-
+Make a pull request to submit your homework (due Friday Midnight).
 
