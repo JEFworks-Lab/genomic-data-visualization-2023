@@ -1,0 +1,3 @@
+Todd's Assignment: https://jef.works/genomic-data-visualization-2023/blog/2023/01/27/thartm10/
+
+I think Todd was pretty effective in displaying the spatial distinctions and similarities between KRT7 and PTPRC. His overlapping visual definitely drew my eyes to the groups of distinct colors, essentially drawing me to the visual differences of the two genes. This was in good accordance with his gestalt principles of proximity and continuity. My one suggestion would be to remove the 'neither expressed' category in the overlapping visual to reduce clutter/noise. I think this group is relatively less important than the other 3.
