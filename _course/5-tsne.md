@@ -20,9 +20,9 @@ Our in-class hands-on component will analyzing our spatial transcriptomics datas
 
 # Class Lesson Notes 5
 
-Prof. Fan’s whiteboard notes from class: 
+Prof. Fan’s whiteboard notes from class: Please consult Slack and OneDrive
 
-Prof. Fan’s code from class: 
+Prof. Fan’s code from class: [code-02-03-2023.R (click to download)]({{ site.baseurl }}/resources/code/code-02-03-2023.R)
 
 ---
 
