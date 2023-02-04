@@ -1,0 +1,22 @@
+1. Which data visualization are you critiquing?
+
+https://jef.works/genomic-data-visualization-2023/blog/2023/01/29/gaihara1/
+
+2. Do you think the author was effective in making salient the point they said they wanted to make? Why or why not?
+
+After reading the description, I do think the author was effective in making salient the spatial pattern of GATA3 expression.
+The author used a saturation gradient from colorless (white) to fully saturated red to represent little to no expression (0) and most signifiant expression levels.
+It is also nice that the author outlined the boundary to each cell:) 
+
+However, it probably would help if the author could specify what the numbers on the legend bar mean in the description - for example, without the descriptions, it would be hard for one to realize whethter 0 and 40 
+refers to "raw counts" of signal intensity, or if it just an author-defined score for gene expression.
+Probably irrelavant - the description could be a bit extrapolating (per "any spatial pattern" and cells "belong to a certain cell type))
+
+3. How could you improve the data visualization in making salient the point they said they wanted to make?
+
+I do not have much comment on the usage of visual channels or Gestalt principle - the gist of the visualization is straightforward and elegant.
+(1) I will probably add a graph title to make sure the meaning is clearly conveyed
+(2) As the goal is for "spatial pattern" - it is actually quite interesting to see if the original data really looks like this - there are no cells with a y_centroid position below 2000.
+Hence, I would adjust the y-axis to be the same scale and same starting range (from 0 instead of from 2000) with the x-axis (debatable!)
+
+
