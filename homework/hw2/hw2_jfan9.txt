@@ -1,11 +1,10 @@
 1. Which data visualization are you critiquing?
 
-https://jef.works/genomic-data-visualization-2023/blog/2023/01/21/jfan9/
+https://jef.works/genomic-data-visualization-2023/blog/2023/01/29/xgu18/
 
 2. Do you think the author was effective in making salient the point they said they wanted to make? Why or why not?
 
-The author sought to make more salient the relationship between ERBB2 expression and the cell area. The author chose to encode the quantitative variable of area using the visual channel of size, which is very difficult to perceive.
+The visualization definitely showed the spatial expression of the individual genes well, the bright saturation stands out against the light gray in the background. It is slightly difficult to tell if the 3 genes represented individually are being grouped together in the top left panel or if it is referencing different genes. The meaning of % of exp is also a little hard to interpret without reading the description. The goal of making spatial position and gene expression is definitely made salient. It more difficult to percieve the relationship with cell area because it is hard to differentiate area with very similar levels of saturation and many of the points overlap. 
 
 3. How could you improve the data visualization in making salient the point they said they wanted to make?
-
-I would use position along the x axis as the visual channel for encoding the quantitative variable of area. Currently, this visual channel is being used to encode the x_centroid position, which is not related to the point that the author wanted to make salient. 
+Perhaps using the Gestalt principle of similarity to represent to cumulative expression of the top 3 genes could emphasize the relationship, using the same hues as the three individual genes and overlaying them instead of using an entirely new hue may help make this relationship stand out more. Further, due to the overlapping points and similar saturation levels, the visual channel of size does not add much to the visualization because it is difficult to see. While it doesn't necessaily impact the saliency of the space vs expression relationship, I wonder if the relationship of cell area and gene expression could be made more salient by separating the two visulations into separate panels. 
