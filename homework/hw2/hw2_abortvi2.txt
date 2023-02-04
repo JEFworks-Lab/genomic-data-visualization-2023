@@ -1,0 +1,18 @@
+I am critiquing the following assignment: https://jef.works/genomic-data-visualization-2023/blog/2023/01/30/yyang117/
+
+The visualization aims to make salient the following points: 
+
+* GATA3 and ADIPOQ mark distinct cell types
+* GATA3 and ADIPOQ positive cells have cell-type specific spatial distributions. 
+
+I think this is an effective visualization. In particular, GATA3-positive cells are very visually striking and have a clear spatial distribution, being organized primarily in ring-like structures. ADPIOQ+ cells mostly scattered throughout the section and are not typically localized to the ring structures of GATA3+ cells. 
+
+I think there are a few changes that could strengthen this figure: 
+
+1. I do not think that representing area strengthens this figure. The stated goals of the image do not comment on the relationship between gene expression and area, and if this relationship is something that you want to represent, a separate panel would be better, I think (perhaps with GATA3 vs cell area as a scatter plot). As is, the large cells tend to overlap with each other, causing visual clutter. Likewise, some of the very smaller cells are hard for me to interpret. 
+
+2. I also think that in a lot of cases, it is hard for me to distinguish the blue borders. This is especially true for smaller cells, or for cells that have a stronger red fill. One solution would be to standardize cell sizes, or perhaps having two panels, one colored by GATA3 and one by ADIPOQ would make this more readable. 
+
+3. It looks like in the more cell-dense areas of the figure, a number of cells with colored borders or fills are overlapped. Perhaps having fill values of 0 be empty circles rather than grey would make these regions easier to read? 
+
+I am also curious about the selection process for ADIPOQ - it looks like it marks a relatively small fraction of cells, and most GATA3- cells also do not have high ADPIOQ expression. Perhaps a different normalization scheme would lead to a different most variable gene, or looking for the gene with the loading most anti-correlated with PC1 would show possible markers for the GATA3- negative cells. Overall, though, I think this is a convincing figure and very clearly represents that GATA3+ cells likely represent a distinct biological cell type. 
