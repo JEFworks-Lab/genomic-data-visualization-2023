@@ -1,0 +1,12 @@
+HW2
+Ryan Chan
+
+Which data visualization are you critiquing?
+
+I am critiquing Eric's visualization: https://jef.works/genomic-data-visualization-2023/blog/2023/01/30/esimon10/
+
+Do you think the author was effective in making salient the point they said they wanted to make? How could you improve the data visualization in making salient the point they said they wanted to make? If you don’t think the data visualization can be improved, explain why the data visualization is already effective. 
+
+Eric mentions that they are trying to make more salient the 3-way relationship between gene expression between ACTG2, ADAM9, and BASP1 and also demonstrating the spatial relationship between cells that highly express these genes.
+
+Personally, I liked this visualization and how it encoded so much data into just one plot. Though I think with this overlay, it is a bit difficult to see the 3-way relationship between the cells that are dominated by the expression of these genes. The distinct hues are excellent in distinguishing the different dominant genes, but the saturation of each color make it more difficult to interpret the results. I would suggest separating the plots to have individual panels that demonstrate the area of cells, but only for a specific gene - you would have 1 panel with all 3 genes, but no information about area, and 3 panels with only 1 gene, but encoding information about the respective areas. Though it is easy to see certain areas that lean toward being dominated by a certain gene expression, I think it would be easier to view this if you isolated a specific group/ cluster/ area to visualize rather than the entire dataset.
