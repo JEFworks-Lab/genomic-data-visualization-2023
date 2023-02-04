@@ -1,0 +1,11 @@
+
+1.	Which data visualization are you critiquing? (just provide a link)
+http://jef.works/genomic-data-visualization-2023/blog/2023/01/28/abortvi2/
+
+2.	“My data visualizations are two scatter plots. The plot on the left tries to make salient the relationship between cell type (represented by cluster) and spatial organization. The visualization in particular shows that cells from cluster 6 tend to form ring-like structures; cells from cluster 5 are evenly and widely dispersed throughout the area; and cells from other clusters are more sparsely distributed. The figure on the right tries to address the proportion of cell expression variance represented by different cell clusters. The figure demonstrates that cells can broadly be divided between cluster 6 and all other clusters” Do you think the author was effective in making salient the point they said they wanted to make? Why or why not?
+
+From the graph, the author was effective in making the salient point, he provided a clear description of each scatter plot and a making salient relationship between cell type, spital organization and cell expression variance. The author also discusses the proportion of each cell expression represented in the graph’s clusters. Furthermore, there is the clear use of variables, for example the number of the clusters, to support the explanation.
+
+3.	How could you improve the data visualization in making salient the point they said they wanted to make? If you don’t think the data visualization can be improved, explain why the data visualization is already effective. 
+
+The data visualization is effective to prove its point, by using the similarity principle of Gestalt, we can see cell colored the same are in the same group, representing the different clusters. Also, we can see another Gestalt principle of continuity, as shown in six cluster. This was able to be properly achieved using data preprocessing in the initial step. The cluster data is clearly distinct and easy to differentiate with the use of colors, axis labeling, and a legend located to the right highlighting the important data points. Therefore, this visualization is proven effective.  
