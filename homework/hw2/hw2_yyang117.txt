@@ -1,0 +1,13 @@
+1. Which data visualization are you critiquing?
+
+https://jef.works/genomic-data-visualization-2023/blog/2023/01/30/malsuwa3/
+
+2. Do you think the author was effective in making salient the point they said they wanted to make? Why or why not?
+
+I think the author was effective in demonstraing the spatial distribution of area of the cell. The authors utilized visual channel of size to encode the quantitative variable of area. The authors also used visual channel of position (x-axis and y-axis) to effectively convey the spatial distribution of cells.
+
+However, the authors labeled each cell with a number to indicate the number of copies of ZEB1 gene, which in my opinion is less straightforward. It is hard to memorize positions of all labeled numbers and the corresponding cell sizes to draw any trend.
+
+3. How could you improve the data visualization in making salient the point they said they wanted to make?
+
+I would employ the visual channel of color to encode the number of copies of ZEB1 gene, with 0 copy be represented with light gray color and 6 copies with bright red color. It is much easier to quickly grasp the relationship between sizes and colors of geometric points. Currently, the visual channel of color encode no information, which seems wasteful in my humble opinion.
