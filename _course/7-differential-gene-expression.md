@@ -30,8 +30,9 @@ Prof. Fan’s code from class:
 
 Learn from your classmates: You will be assigned to critique a data visualization made by a teammate. Please remember to be constructive in your critique. 
 
+[genomic-data-visualization-HW_4.pptx (click to download)]({{ site.baseurl }}/resources/hw/genomic-data-visualization-HW_4.pptx)
+
 Use the same process from HW2 for what is expected and how to submit your homework to the folder `hw4/`.
-[genomic-data-visualization-HW_2.pptx (click to download)]({{ site.baseurl }}/resources/hw/genomic-data-visualization-HW_2.pptx)
 
 Make a pull request to submit your homework (due Friday Midnight).
 
