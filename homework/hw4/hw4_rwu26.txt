@@ -1,0 +1,23 @@
+1. Which data visualization are you critiquing?
+
+https://jef.works/genomic-data-visualization-2023/blog/2023/02/06/thartm10/
+
+2. Do you think the author was effective in making salient the point they said they wanted to make? Why or why not?
+
+The visualization wants to make more salient how data normalization could influence tSNE performance. 
+The author visualizes the quantitative gene expression of two genes that are anti-correlated to show clustering efficiency.
+It is hypothesized that KRT7 and PTPRC should be highly expressed in separate clusters, and that sigmoid normalization could enhance the clustering effect.
+The visualization uses geometric primitive of points to show individual cell, and encodes the visual channel of position to show low-dimensional embedding of clusters from tSNE.
+The visualization uses divergent color hue to encode quantitative gene expression, and use Gestalt principle of proximity to compare normalized and un-normalized scenarios side by side.
+I think it is an effective visualization, as we could observe the differences of tSNE results due to normalization. The color hue scale is standardized and enables easy comparison.
+The author claims that normalization does help tSNE clustering as the clusters appear to be more homogenous in color in the normalized graphs as opposed to the unnormalized graphs.
+However, I think both the normalized and un-normalized scenarios have distinct cell clusters for the two genes, which was a correct reflection of prior biology knowledge. 
+The change of clusters and homogeneity improvement are a bit vague to draw the certain conclusion that sigmoid normalization is necessary and effective.
+
+
+
+3. How could you improve the data visualization in making salient the point they said they wanted to make?
+
+I think the visualization could include more types of normalization, such as log-scale, division by standard deviation, normalized to 0~1, etc, as the author is trying to investigate the effectiveness of different normalization technique.
+The author could also include graph for investigating artifact, such as barplot of total gene count per cell, to enhance the argument that sigmoid normalization enhances data cleanness. 
+ 
