@@ -1,0 +1,12 @@
+1. Which data visualization are you critiquing?
+
+https://jef.works/genomic-data-visualization-2023/blog/2023/02/06/gaihara1/
+
+
+2. Do you think the author was effective in making salient the point they said they wanted to make? Why or why not?
+
+Yes, the comparison of tSNE analysis on normalized data with and without PCA is made clear with the two plots side by side. It is interesting that the difference only seems to be a rotation/flip. I do think the relationship is made salient through the plots provided, I don't think the upper left plot necessarily adds any information that aids in the interpretation of the data visualization, but it also doesn't detract from the point.
+
+
+3. How could you improve the data visualization in making salient the point they said they wanted to make?
+While LEP is lowly expressed, it is really hard to see any differences in hue on the tSNE analysis plots for LEP on the left side. I wonder if changing the saturation or the hue of the gradient would help in the visualization. Maybe swapping the genes represented red and blue because red stands out more than the darker blue hue, or cboosing a more vibrant blue hue. It is also hard to interpret why LEP is represented by a dot and the other genes are represented by lines. It is hard to see the dots for the other genes, so it seems (with the Gestalt Principle of Similarity) that KRT7 and LUM are similar and LEP is somehow different. Maybe rather than using two encodings for one data, it would be helpful to choose one encoding that can successfully visualize the desired data so that all three genes are seen as similar. 
