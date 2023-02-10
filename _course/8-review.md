@@ -20,7 +20,9 @@ TDB
 
 # Class Lesson Notes 8
 
-TBD
+Kalen's notes from class: [genomic-data-visualization-Review_DataTypes.pptx (click to download)]({{ site.baseurl }}/resources/notes/genomic-data-visualization-Review_DataTypes.pptx)
+
+Kalen’s code from class: [code-02-10-2023.R (click to download)]({{ site.baseurl }}/resources/code/code-02-10-2023.R)
 
 ---
 
