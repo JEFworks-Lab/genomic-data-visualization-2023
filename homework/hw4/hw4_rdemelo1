@@ -1,0 +1,12 @@
+1. Which data visualization are you critiquing?
+
+https://jef.works/genomic-data-visualization-2023/blog/2023/02/06/rpeixot1/
+
+
+2. Do you think the author was effective in making salient the point they said they wanted to make? Why or why not?
+
+The author designed a comparative figure, showing PCA and tSNE data of gene expression, before and after normalization per total gene expressed. The goal was to show the effect of normalization on reduced dimension analysis through PCA and tSNE. By accounting for low count of cells in a categorical fashion (with true expressed in black and false expressed in blue), the author is able to clearly show the changes on dimension reduction gene expression following normalization. The visual channels chosen make the difference clear, and the contrasting colars make the goal of the data visualization evident. 
+
+3. How could you improve the data visualization in making salient the point they said they wanted to make?
+
+For quantitative evaluation, a way of improving the visualization would be to calculate the distance between points (cells) on the PCA and tSNE plots compared to the (0,0) point previous- and post-normalization, and include a bar visualization of the average change in position under non-normalized/normalized conditions for either PCA or tSNE. The bar plot could show three bars, side-by-side: a control (0,0), average distance before normalization and average distance post-normalization. This would return a quantitative visualization of change in cell position. 
