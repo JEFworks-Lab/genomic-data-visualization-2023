@@ -1,0 +1,13 @@
+1. Which data visualization are you critiquing?
+
+https://jef.works/genomic-data-visualization-2023/blog/2023/02/06/abortvi2/
+
+2. Do you think the author was effective in making salient the point they said they wanted to make? Why or why not?
+
+I do think the author made his point across very clearly. Linear dimensionality reduction methods, while interpretable, most of the time cannot produce plots that allow users to visually distinguish clusters. Non-linear methods, on the other hand, are more capable of generating figures where clusters are distinguishable. Points on the left-most figure (plotted PC1 vs PC2) are all smooshed together; while the points on the other figures are mostly clustered according to their k-mean cluster assignments. Using different hues to highlight the cluster assignment and using positions on PCA or t-SNE embedding space are greater way to showcase the similarity between cells. Overall, I think this is a really great visualization.
+
+3. How could you improve the data visualization in making salient the point they said they wanted to make?
+
+I cannot think of any major improvement I would make to the plots. One minor point that I can think of is to use shape instead of hues to distinguish clusters. Because there are 8 clusters and colors on the color palette of viridis are the easiest to distinguish (I am specifically referring to "cluster 1" and "cluster 2"). I would either use "set2" or "set1" or simply use different shapes, like "+", "^", "o", "." etc.
+
+Overall, I think this is a very effective visualization at making its point across.
