@@ -1,0 +1,12 @@
+1. Which data visualization are you critiquing?
+
+https://jef.works/genomic-data-visualization-2023/blog/2023/02/06/esimon10/
+
+2. Do you think the author was effective in making salient the point they said they wanted to make? Why or why not?
+
+The intended goal of the visualization was to demonstrate how "the saliency of the data clusters is impacted by the choice of how many PCA components are included." I think the author does a good job in visualizing this as its clear to see that the t-SNE plots generated on 20 principal components have gene expression and detection of the two genes more tightly clustered.  
+
+3. How could you improve the data visualization in making salient the point they said they wanted to make?
+
+The only things I would suggest would be to replace the second gene with a gene that has gene expression pattern different than the first one so you could visualize the overall clustering better. Also, this wouldn't have a huge impact on saliency since it's clear already, but maybe separating the color bar somehow to differentiate between the gene expression and detection color scale to make that element clearer.  
+(Format taken from hw2_jfan9.txt)
