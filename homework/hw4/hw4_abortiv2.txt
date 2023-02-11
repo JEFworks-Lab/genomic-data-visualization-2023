@@ -1,0 +1,11 @@
+I am critiquing this visualization: https://jef.works/genomic-data-visualization-2023/blog/2023/02/05/yyang117/
+
+This visualization aims to look at how the number of distinct genes detected per a cell impact how cells are distributed after application of t-SNE. This figure also compares the effect of normalization vs. no normalization. 
+
+I think that this is a really interesting and effective visualization! There is a clear difference between the two plots, with high-UMI cells at the periphery of the t-SNE plot in the non-normalized plot, and a more even distribution of high-UMI cells in the normalized plot. To my eye, this is very convincing evidence that normalization reduces the impact of the number of UMIs. 
+
+A couple things that would I would suggest:
+
+* Explicitly labelling both plots as being normalized or not normalized (through ggtitle or facet_wrap, for example)
+* One color legend would be better (either by explicitly suppressing the one in the left plot, or through facet_wrap)
+* I really like the extreme values color scale, but I feel like it would be better if it transitions from purple to orange faster – as is, a lot of values are in the blue to purple range and are hard to distinguish. 
