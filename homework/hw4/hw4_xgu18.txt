@@ -1,0 +1,27 @@
+1. Which data visualization are you critiquing?
+
+https://jef.works/genomic-data-visualization-2023/blog/2023/02/06/galexa13/
+
+2. Do you think the author was effective in making salient the point they said they wanted to make? Why or why not?
+
+I agree that Gwen was effective in making salient her exploration about the effects of scaling on identifying cell clusters in the dataset.
+She has clear titles accompanying each plot that describes the particular experiment. She also has used the visualization channel of a contiuous color gradient 
+to visualize the amount of geen expression, accompanied by a descriptive legend. 
+I also like how she emphasizes oen panel by placing it into a more prominent position with bigger panel size.
+
+
+** side friendly comment don't take me wrong : this is just my curious note about how Gwen could visualize tSNE in terms of cell clusters so I ran part of the code (since I already have a tSNE on scaled info in my environment)
+```{r}
+p1 <- ggplot(df1,aes(x=X1,y=X2,col = relative_gene_expression)) + geom_point(size = 0.2) + scale_color_gradientn(colors = c(“lightgrey”, “yellow”, “orange”, “red”)) + ggtitle(“Clustered Total Gene Expression of Cells Expressing ERBB2 \n(Not Scaled)”) + theme_classic() + labs(color = “Gene Expression \nof ERBB2”)
+```
+I am still seeing the classic classic tSNE as we did in class, so I am confused how i could make the cluster plot like that. 
+
+
+3. How could you improve the data visualization in making salient the point they said they wanted to make?
+
+I would suggest Gwen add a title for the whole figure to describe what her goal of the visualization is (just summarizes what she describes in the text).
+
+Furthermore(another side comment), maybe could set the seed to a fixed number for reproducibility and to make sure that all three visualizations 
+are done under a same ~randomness 
+
+** side comment: for aesthetics, maybe can truncate the axis so hat there would not be as big margins. 
