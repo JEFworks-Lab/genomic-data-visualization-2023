@@ -1,0 +1,11 @@
+I am critiquing Rebecca's visualization available in https://jef.works/genomic-data-visualization-2023/blog/2023/01/27/rdemelo1/
+
+The author aims to make salient the relationship between the expression levels of selected genes and the cell area. I believe the visualization is effective because for gene PDGFRA and PDGFRB, we can observe an inverse relationship between the gene expression and the cell area. In particular, if a cell has high expression levels of the selected gene, it tends to have a relatively small cell area. This is a very interesting finding. 
+
+To further improve this visualization, I would suggest the following two changes.
+
+1. Since the objective of this visualization is to elucidate the relationship between gene expression and cell area, I suggest the author can consider not encoding cell's location information via other visual channels. The spatial information of the cell is less relevant with the goal of this visualization.
+
+2. The visual clarity of the plot can be further enhanced with smaller and more transparent dots.
+
+Overall, this is a very insightful visualization and can be made even better with less irrelevant information and clearer visual effects.
