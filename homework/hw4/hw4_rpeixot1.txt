@@ -1,0 +1,14 @@
+1. Which data visualization are you critiquing?
+
+https://jef.works/genomic-data-visualization-2023/blog/2023/02/06/awang87/
+
+2. Do you think the author was effective in making salient the point they said they wanted to make? Why or why not?
+
+The two plots on the top convey a clear message of the gene loadings for each PC. The position is a high-ranked visual channel to encode the categorical data and the length is also recommended to encode quantitative data.
+For the third plot, the geometric primitive of the point and the visual channel of position is a good method to represent the cells. The geometric primitive of the line and the hue are also a good way to represent the different genes and their loadings. However, the origin of the lines does not seem to align with the origin of the PCs, probably because of the centralization.
+
+3. How could you improve the data visualization in making salient the point they said they wanted to make?
+
+For the first two plots, I am used to seeing the larger lines at the top and aligned to the left side. But since the data is negative, it is understandable this choice. For the last plot, the origin of lines could be aligned with the origin of the PCs.
+
+
