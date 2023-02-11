@@ -1,0 +1,4 @@
+Ryan's Assignment: https://jef.works/genomic-data-visualization-2023/blog/2023/02/06/cchan58/
+
+I think Ryan did a great job with this assignment! The side-by-side results of different pre-processing methods was a cool exploratory idea. I think the choice of similarity was effective at making salient the effects of each process; the x-y axes were adjusted such that each graph's data had similar shapes, so the differences in gene expression was further emphasized to the viewer. If this technique was not used, the viewer would be more distracted by changes in the data shape and the conclusion of this exploration would be less clear. 
+My one idea at furthering this visualization would be to include a graphic with multiple types of pre-processing to explore how each changes the principle component 2D space. I'm not exactly sure how valuable this would be, but I think it would be a cool visual!
