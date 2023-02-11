@@ -1,0 +1,12 @@
+HW4
+Ryan Chan
+
+Which data visualization are you critiquing?
+
+I am critiquing Wendy's visualization: https://jef.works/genomic-data-visualization-2023/blog/2023/02/05/rwu26/
+
+Do you think the author was effective in making salient the point they said they wanted to make? How could you improve the data visualization in making salient the point they said they wanted to make? If you don’t think the data visualization can be improved, explain why the data visualization is already effective. 
+
+Wendy mentioned that they were trying to make the difference of performing TSNE reduction based on gene expression and top PCs more salient. I think they were effective in making this point salient, especially since she utilized a specific gene expression to demonstrate that the expression of PTPRC is more clustered in the TSNE reduction based on PCs (in my opinion). Although Wendy did not conclude whether the TSNE reduction on gene expression or top PC was more effective, I think the plots clearly demonstrate the differences in the TSNE reductions.
+
+Personally, I really liked this visualization, especially since Wendy also included the scree plot to justify why this specific PC was chosen to visualize the difference in TSNE reduction. I would recommend keeping the theme of all the plots consistent as the classic theme was used on the PCA plot but the scree plot and the TSNE plots did not use the classic theme.
