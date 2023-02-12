@@ -20,11 +20,19 @@ Our in-class hands-on component will analyze our spatial transcriptomics dataset
 
 # Class Lesson Notes 9
 
-Prof. Fan’s whiteboard notes from class: 
+Prof. Fan’s notes from class: [genomic-data-visualization-Lesson_9.pptx (click to download)]({{ site.baseurl }}/resources/notes/genomic-data-visualization-Lesson_9.pptx)
 
-Prof. Fan’s code from class: 
+Prof. Fan’s code from class: [code-02-13-2023.R (click to download)]({{ site.baseurl }}/resources/code/code-02-13-2023.R)
 
 ---
 
 # Homework Assignment 9
+
+Perform kmeans clustering on your data. Pick ONE cluster and figure out what cell-type it corresponds to. Create a data visualization and write a description to convince me that your cell-type interpretation is correct.
+
+See slides for more details on what is expected: [genomic-data-visualization-HW_5.pptx (click to download)]({{ site.baseurl }}/resources/hw/genomic-data-visualization-HW_5.pptx)
+
+Make a pull request to submit your homework (due Friday Midnight).
+
+
 

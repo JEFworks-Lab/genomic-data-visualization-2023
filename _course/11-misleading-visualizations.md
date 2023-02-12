@@ -20,18 +20,13 @@ We will perform an analysis using the data analysis approaches we have learned s
 
 # Class Lesson Notes 11
 
-Prof. Fan’s whiteboard notes from class: [genomic-data-visualization-classnotes-20220211.pdf (click to download)]({{ site.baseurl }}/resources/notes/genomic-data-visualization-classnotes-20220211.pdf)
-
-Prof. Fan’s code from class: [inclass-plotting-20220211.R (click to download)]({{ site.baseurl }}/resources/code/inclass-plotting-20220211.R) 
-
-In case you're curious how the mystery dataset was made: [generate_mystery.R (click to download)]({{ site.baseurl }}/resources/code/generate_mystery.R) 
-
+Prof. Fan’s code from class: [code-02-17-2023.R (click to download)]({{ site.baseurl }}/resources/code/code-02-17-2023.R)
 
 ---
 
 # Homework Assignment 11
 
-None. Complete Homework Assignment 7 if you have not done so yet.
+None. Complete HW5 if you have not done so yet.
 
 
 

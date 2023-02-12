@@ -14,21 +14,20 @@ By the end of this lesson, we should understand what is RNA velocity analysis.
 
 # Hands-on component 10
 
-We will use `gganimate` to make dynamic visualizations
+We will use `gganimate` to make dynamic visualizations.
 
 ---
 
 # Class Lesson Notes 10
 
-Prof. Fan’s slides shown in class: [genomic-data-visualization-classnotes-20220216.pptx (click to download)]({{ site.baseurl }}/resources/notes/genomic-data-visualization-classnotes-20220216.pptx)
+Prof. Fan’s notes from class: [genomic-data-visualization-Lesson_10.pptx (click to download)]({{ site.baseurl }}/resources/notes/genomic-data-visualization-Lesson_10.pptx)
 
-Prof. Fan’s whiteboard notes from class: [genomic-data-visualization-classnotes-20220216.pdf (click to download)]({{ site.baseurl }}/resources/notes/genomic-data-visualization-classnotes-20220216.pdf)
+Prof. Fan’s code from class: [code-02-15-2023.R (click to download)]({{ site.baseurl }}/resources/code/code-02-15-2023.R)
 
 ---
 
 # Homework Assignment 10
 
-None. Complete Homework Assignment 10 if you have not done so yet.
-
+None. Complete HW5 if you have not done so yet.
 
 
