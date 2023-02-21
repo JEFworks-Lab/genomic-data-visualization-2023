@@ -20,7 +20,7 @@ Our in-class hands-on component will involve analyzing a spatial proteomics data
 
 # Class Lesson Notes 13
 
-Prof. Fan’s slides shown in class: [genomic-data-visualization-classnotes-20220221.pptx (click to download)]({{ site.baseurl }}/resources/notes/genomic-data-visualization-classnotes-20220221.pptx)
+Prof. Fan’s notes from class: [genomic-data-visualization-Lesson_13.pptx (click to download)]({{ site.baseurl }}/resources/notes/genomic-data-visualization-Lesson_13.pptx)
 
 Prof. Fan’s code from class: [inclass-plotting-2022021.R (click to download)]({{ site.baseurl }}/resources/code/inclass-plotting-20220221.R) 
 
@@ -29,6 +29,11 @@ Prof. Fan’s code from class: [inclass-plotting-2022021.R (click to download)](
 # Homework Assignment 13
 
 None. Complete Homework Assignment 12 if you have not done so yet.
+
+For extra credit, analyze the CODEX dataset. Perform analyses and create a multi-panel data visualization with a corresponding ‘figure caption’ that describes your data visualization. See slides for more details on what is expected: [genomic-data-visualization-HW_EC.pptx (click to download)]({{ site.baseurl }}/resources/hw/genomic-data-visualization-HW_EC.pptx)
+
+
+
 
 
 
