@@ -22,7 +22,7 @@ Our in-class hands-on component will involve analyzing a spatial proteomics data
 
 Prof. Fan’s notes from class: [genomic-data-visualization-Lesson_13.pptx (click to download)]({{ site.baseurl }}/resources/notes/genomic-data-visualization-Lesson_13.pptx)
 
-Prof. Fan’s code from class: [inclass-plotting-2022021.R (click to download)]({{ site.baseurl }}/resources/code/inclass-plotting-20220221.R) 
+Prof. Fan’s code from class: [code-02-22-2023.R (click to download)]({{ site.baseurl }}/resources/code/code-02-22-2023.R) 
 
 ---
 
