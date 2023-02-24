@@ -22,8 +22,6 @@ None.
 
 Prof. Fan’s notes from class: [genomic-data-visualization-Lesson_14.pptx (click to download)]({{ site.baseurl }}/resources/notes/genomic-data-visualization-Lesson_14.pptx)
 
-Prof. Fan’s code from class: [inclass-plotting-2022023.R (click to download)]({{ site.baseurl }}/resources/code/inclass-plotting-20220223.R) 
-
 ---
 
 # Homework Assignment 14
