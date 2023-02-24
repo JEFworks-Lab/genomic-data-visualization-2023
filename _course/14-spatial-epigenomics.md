@@ -14,13 +14,13 @@ By the end of this lesson, we should understand what is epigenetics and what are
 
 # Hands-on component 14
 
-Our in-class hands-on component will look at a spatial epigenetics dataset together.
+None. 
 
 ---
 
 # Class Lesson Notes 14
 
-Prof. Fan’s slides shown in class: [genomic-data-visualization-classnotes-20220223.pptx (click to download)]({{ site.baseurl }}/resources/notes/genomic-data-visualization-classnotes-20220223.pptx)
+Prof. Fan’s notes from class: [genomic-data-visualization-Lesson_14.pptx (click to download)]({{ site.baseurl }}/resources/notes/genomic-data-visualization-Lesson_14.pptx)
 
 Prof. Fan’s code from class: [inclass-plotting-2022023.R (click to download)]({{ site.baseurl }}/resources/code/inclass-plotting-20220223.R) 
 
