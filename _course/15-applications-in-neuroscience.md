@@ -20,13 +20,16 @@ None.
 
 # Class Lesson Notes 15
 
-Prof. Fan’s slides shown in class: [genomic-data-visualization-classnotes-20220228.pptx (click to download)]({{ site.baseurl }}/resources/notes/genomic-data-visualization-classnotes-20220228.pptx)
+Prof. Fan’s notes from class: [genomic-data-visualization-Lesson_15.pptx (click to download)]({{ site.baseurl }}/resources/notes/genomic-data-visualization-Lesson_15.pptx)
 
 ---
 
 # Homework Assignment 15
 
-[genomic-data-visualization-HW_7.pptx (click to download)]({{ site.baseurl }}/resources/hw/genomic-data-visualization-HW_7.pptx)
+None. Final class project assigned. 
 
-Make a pull request to submit your homework (due Thursday 8pm).
+See slides for more details on what is expected: [genomic-data-visualization-final.pptx (click to download)]({{ site.baseurl }}/resources/hw/genomic-data-visualization-final.pptx)
+
+
+
 
