@@ -20,13 +20,13 @@ None.
 
 # Class Lesson Notes 16
 
-Prof. Fan’s slides shown in class: [genomic-data-visualization-classnotes-20220302.pptx (click to download)]({{ site.baseurl }}/resources/notes/genomic-data-visualization-classnotes-20220302.pptx)
+Prof. Fan’s notes from class: [genomic-data-visualization-Lesson_16.pptx (click to download)]({{ site.baseurl }}/resources/notes/genomic-data-visualization-Lesson_16.pptx)
 
 ---
 
 # Homework Assignment 16
 
-None. Complete Homework Assignment 15 if you have not done so yet.
+None. Work on your class projects. 
 
 
 
